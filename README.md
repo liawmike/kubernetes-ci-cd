@@ -10,6 +10,8 @@ To get it up and running, see the following week-by-week Linux.com blog posts, o
 
 [Linux.com Part 3](https://www.linux.com/blog/learn/chapter/intro-to-kubernetes/2017/6/run-and-scale-distributed-crossword-puzzle-app-cicd-kubernetes-part-3)
 
+[Linux.com Part 4](https://www.linux.com/blog/learn/chapter/intro-to-kubernetes/2017/6/set-cicd-distributed-crossword-puzzle-app-kubernetes-part-4)
+
 To generate this readme: `node readme.js`
 
 ## Interactive Tutorial Version
@@ -410,3 +412,18 @@ After it triggers, observe how the puzzle services disappear in the Kr8sswordz P
 Try clicking Submit to test that hits now register as light green.
 
 `echo ''`
+
+ ## LICENSE
+Copyright 2017 Kenzan, LLC <http://kenzan.com>
+ 
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+ 
+    http://www.apache.org/licenses/LICENSE-2.0
+ 
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
